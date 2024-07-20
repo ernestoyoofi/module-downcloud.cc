@@ -1,6 +1,6 @@
 {
   "name": "@ernestoyoofi/downcloud.cc",
-  "version": "1.20.0",
+  "version": "1.2.0",
   "description": "Downloader Tiktok, YouTube, and Facebook",
   "main": "./lib/main.js",
   "directories": {
@@ -23,7 +23,7 @@
     "Facebookshort",
     "Facebookshort"
   ],
-  "author": "Ernestoyoofi",
+  "author": "ernestoyoofi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ernestoyoofi/module-downcloud.cc/issues"
