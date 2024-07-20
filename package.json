@@ -1,0 +1,36 @@
+{
+  "name": "@ernestoyoofi/downcloud.cc",
+  "version": "1.20.0",
+  "description": "Downloader Tiktok, YouTube, and Facebook",
+  "main": "./lib/main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node testing.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestoyoofi/module-downcloud.cc.git"
+  },
+  "keywords": [
+    "Youtube",
+    "Youtubedownloader",
+    "Youtubedown",
+    "Tiktokdown",
+    "Tiktokvideo",
+    "Facebook",
+    "Facebookshort",
+    "Facebookshort"
+  ],
+  "author": "Ernestoyoofi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernestoyoofi/module-downcloud.cc/issues"
+  },
+  "homepage": "https://github.com/ernestoyoofi/module-downcloud.cc#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
